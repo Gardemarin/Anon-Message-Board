@@ -16,4 +16,4 @@
 
 ## Example
 
-#### Go to:  ```'/b/general/'``` board
+#### Go to:  [/g/general](https://guttural-ox.gomix.me/b/general/) board
