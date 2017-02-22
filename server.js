@@ -23,7 +23,7 @@ app.use(
         scriptSrc: ["'self'",  "code.jquery.com", "'unsafe-inline'"],
         styleSrc: ["'self'", "'unsafe-inline'"],
         fontSrc: ["'self'", "data:"],
-        imgSrc: ["'self'", "hyperdev.com", "cdn.gomix.com", "http://gomix.com"]
+        imgSrc: ["'self'", "hyperdev.com", "cdn.gomix.com", "http://gomix.com", "data:"]
       }
     }
   })
